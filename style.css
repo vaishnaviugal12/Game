@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-color:#A1D6B2;
+    background-color:#87A2FF;
 }
 .btn{
     height: 200px;
@@ -14,19 +14,19 @@ body{
     justify-content: center;
 }
 .red{
-    background-color: red;
+    background-color: #257180;
 }
 .blue{
-    background-color:blue;
+    background-color:#F2E5BF;
 }
 .green{
     background-color: green;
 }
 .pink{
-    background-color: pink;
+    background-color: #FD8B51;
 }
 .flash{
-    background-color: white;
+    background-color: #cb6040;
 }
 .userflash{
     background-color: yellow;
